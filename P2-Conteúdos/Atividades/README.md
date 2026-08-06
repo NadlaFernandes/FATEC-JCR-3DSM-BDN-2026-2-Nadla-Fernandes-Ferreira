@@ -1,2 +1,2 @@
 # 📄 P2 – Atividades
-Atividades referentes à segunda avaliação
+Atividades referentes à segunda avaliação.
