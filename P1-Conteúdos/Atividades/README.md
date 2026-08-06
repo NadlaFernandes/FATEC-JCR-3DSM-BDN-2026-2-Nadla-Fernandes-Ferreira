@@ -1,2 +1,2 @@
 # 📄 P1 – Atividades
-Atividades referentes à primeira avaliação
+Atividades referentes à primeira avaliação.
